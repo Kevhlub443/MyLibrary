@@ -1,0 +1,17 @@
+
+/*-----geral-----*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+:root{
+    --corfundo:rgb(220,220,221)
+}
+
+body{
+    background-color:var(--corfundo) ;
+}
+
+/*---------------*/
+
