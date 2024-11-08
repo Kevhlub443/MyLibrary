@@ -77,9 +77,9 @@ O projeto está organizado da seguinte forma:
 │
 ├── /versionamento/                     # Controle de versão do código (Git)  
 │   ├── .gitignore                      # Arquivo que define o que será ignorado pelo Git
-│   └── README.md                       # Arquivo de documentação do projeto
 ├── .git/                               # Diretório do git
-└── requirements.txt                    # Dependências do Python (Django, MySQL, etc)
+├── requirements.txt                    # Dependências do Python (Django, MySQL, etc)
+└── README.md                           # Arquivo de documentação do projeto
 
 ```
 
@@ -261,9 +261,9 @@ The project is organized as follows:
 │
 ├── /versioning/                         # Version control (Git)
 │   ├── .gitignore                      # File defining what Git will ignore
-│   └── README.md                       # Project documentation file
 ├── .git/                               # Git directory
-└── requirements.txt                    # Python dependencies (Django, MySQL, etc)
+├── requirements.txt                    # Python dependencies (Django, MySQL, etc)
+└── README.md                           # Project documentation file
 
 ```
 
